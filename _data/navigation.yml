@@ -32,6 +32,6 @@
   url: "/search/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Contacts"
+  url: "/contacts/"
   side: right
