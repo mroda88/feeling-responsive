@@ -9,7 +9,8 @@ header:
   image_fullwidth: kinkakuji.jpg
 
 title: "Dr. Marco Roda"
-subheadline: "Personal webpage"
+teaser: "Welcome to my personal home page!"
+
 # widget1:
 #   title: "Blog & Portfolio"
 #   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -48,9 +49,19 @@ permalink: /index.html
 homepage: true
 ---
 
-Welcome to my personal home page!
+<div class="row">
+    <div class="medium-3 columns t30">
 
-I'm <a href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a> physicist woking at the <a href="https://www.liverpool.ac.uk/physics/">physics department</a> of the <a href="https://www.liverpool.ac.uk/"> University of Liverpool </a>.
-I mostly work in cross section analyses but I also enjoy the more technical job of building <a href="https://en.wikipedia.org/wiki/Data_acquisition"> DAQs<a/>.
+      <img src="{{ site.urlimg }}profile_pic.jpg" style="transform:rotate(-90deg)" alt="">
 
-In my free time I'm a passionate musician specialized in choral chamber music.
+    </div><!-- /.medium-3.columns -->
+
+    <div class="medium-9 columns t30">
+      I'm <a href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a> physicist woking at the <a href="https://www.liverpool.ac.uk/physics/"> physics department </a> of the
+      <a href="https://www.liverpool.ac.uk/"> University of Liverpool </a>.
+      <br> <br>
+      I'm mostly involved in cross section analyses but I also enjoy the more technical job of building <a href="https://en.wikipedia.org/wiki/Data_acquisition/"> DAQs </a>.
+      <br> <br>
+      In my free time I'm a passionate musician specialized in choral chamber music
+    </div>
+  </div>
