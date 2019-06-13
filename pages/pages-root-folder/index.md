@@ -52,7 +52,7 @@ homepage: true
 <div class="row">
     <div class="medium-3 columns t30">
 
-      <img src="{{ site.urlimg }}profile_pic.jpg" style="transform:rotate(-90deg)" alt="">
+      <img src="{{ site.urlimg }}profile_pic.jpg" alt="">
 
     </div><!-- /.medium-3.columns -->
 
