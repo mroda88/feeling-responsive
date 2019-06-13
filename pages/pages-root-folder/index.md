@@ -4,10 +4,12 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: page-fullwidth
 header:
   image_fullwidth: kinkakuji.jpg
 
+title: "Dr. Marco Roda"
+subheadline: "Personal webpage"
 # widget1:
 #   title: "Blog & Portfolio"
 #   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -45,3 +47,10 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+Welcome to my personal home page!
+
+I'm <a href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a> physicist woking at the <a href="https://www.liverpool.ac.uk/physics/">physics department</a> of the <a href="https://www.liverpool.ac.uk/"> University of Liverpool </a>.
+I mostly work in cross section analyses but I also enjoy the more technical job of building <a href="https://en.wikipedia.org/wiki/Data_acquisition"> DAQs<a/>.
+
+In my free time I'm a passionate musician specialized in choral chamber music.
