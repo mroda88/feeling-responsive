@@ -17,7 +17,12 @@
     - title: DUNE
       url: "/Physics/DUNE"
     - title: OPERA
-      url: "/Physics/Opera"  
+      url: "/Physics/Opera"
+
+- title: Teaching
+  url: "/Teaching/"
+  side: left
+
 
 - title: "Music"
   url: "/Music/"
