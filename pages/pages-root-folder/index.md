@@ -62,6 +62,6 @@ homepage: true
       <br> <br>
       I'm mostly involved in cross section analyses but I also enjoy the more technical job of building <a href="https://en.wikipedia.org/wiki/Data_acquisition/"> DAQs </a>.
       <br> <br>
-      In my free time I'm a passionate musician specialized in choral chamber music
+      In my free time I'm a passionate musician specialized in choral chamber music and an avid reader of <a href="https://en.wikipedia.org/wiki/P._G._Wodehouse"> P.G. Wodehouse </a>. 
     </div>
   </div>
