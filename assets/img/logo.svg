@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="95.922897mm"
+   height="12.753242mm"
+   viewBox="0 0 95.922897 12.753242"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/mroda/Website/feeling-responsive/assets/img/logo.png"
+   inkscape:export-xdpi="211.83679"
+   inkscape:export-ydpi="211.83679"
+   inkscape:version="0.92.4 (unknown)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter4968">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood4958" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4960" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur"
+         id="feGaussianBlur4962" />
+      <feOffset
+         dx="9.1"
+         dy="-1.1"
+         result="offset"
+         id="feOffset4964" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4966" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4970" />
+      <feFlood
+         id="feFlood4972"
+         flood-opacity="0.498039"
+         flood-color="rgb(215,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4974"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4976"
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur" />
+      <feOffset
+         id="feOffset4978"
+         dx="9.1"
+         dy="-1.1"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4980"
+         in="fbSourceGraphic"
+         operator="over"
+         result="fbSourceGraphic" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4982" />
+      <feFlood
+         id="feFlood4984"
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4986"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4988"
+         in="composite1"
+         stdDeviation="2.1"
+         result="blur" />
+      <feOffset
+         id="feOffset4990"
+         dx="9.1"
+         dy="-1.1"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4992"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter5436">
+      <feFlood
+         flood-opacity="0.498039"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood5426" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite5428" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur5430" />
+      <feOffset
+         dx="2.05669e-14"
+         dy="-1.38778e-16"
+         result="offset"
+         id="feOffset5432" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite5434" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-45.168004"
+     inkscape:cy="-191.25208"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-32.821321,-86.706853)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Black Diamonds';-inkscape-font-specification:'Black Diamonds';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter5436)"
+       x="40.892235"
+       y="96.815117"
+       id="text817"
+       inkscape:export-xdpi="211.83679"
+       inkscape:export-ydpi="211.83679"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="40.892235"
+         y="96.815117"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Dr Marco Roda</tspan></text>
+  </g>
+</svg>
