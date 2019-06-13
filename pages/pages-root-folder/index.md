@@ -57,11 +57,11 @@ homepage: true
     </div><!-- /.medium-3.columns -->
 
     <div class="medium-9 columns t30">
-      I'm <a href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a> physicist woking at the <a href="https://www.liverpool.ac.uk/physics/"> physics department </a> of the
+      I'm a <a href="https://en.wikipedia.org/wiki/Neutrino">neutrino</a> physicist woking as a post-doc researcher at the <a href="https://www.liverpool.ac.uk/physics/"> physics department </a> of the
       <a href="https://www.liverpool.ac.uk/"> University of Liverpool </a>.
       <br> <br>
       I'm mostly involved in cross section analyses but I also enjoy the more technical job of building <a href="https://en.wikipedia.org/wiki/Data_acquisition/"> DAQs </a>.
       <br> <br>
-      In my free time I'm a passionate musician specialized in choral chamber music and an avid reader of <a href="https://en.wikipedia.org/wiki/P._G._Wodehouse"> P.G. Wodehouse </a>. 
+      In my free time I'm a passionate musician specialized in choral chamber music and an avid reader of <a href="https://en.wikipedia.org/wiki/P._G._Wodehouse"> P.G. Wodehouse </a>.
     </div>
   </div>
